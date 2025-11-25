@@ -157,7 +157,7 @@ nav.scrolled {
 }
 
 .logo-img {
-    height: 50px;
+    height: 100px;
     width: auto;
     transition: all var(--transition-base);
 }
