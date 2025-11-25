@@ -53,7 +53,7 @@ MoSoftSolutions/
    git add .
    git commit -m "Initial commit: Mo Soft Solutions website"
    git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/MoSoftSolutions.git
+   git remote add origin https://github.com/ngwanatuka/MoSoftSolutions.git
    git push -u origin main
    ```
 
