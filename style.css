@@ -158,11 +158,7 @@ nav.scrolled {
 
 .logo-img {
     height: 50px;
-    /* base height for layout */
     width: auto;
-    transform: scale(1.5);
-    /* visually enlarge logo */
-    transform-origin: left center;
     transition: all var(--transition-base);
 }
 
